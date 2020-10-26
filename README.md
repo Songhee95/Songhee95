@@ -1,8 +1,10 @@
-### Hi there 👋
-
+### Hi I am Songhee Yim 👋
+I recently graduated from Georgia Tech Bootcamp.
+I love to work as a team member.
+---
+### How to reach me:
+    Reach our via Email or find me on [linkedin](www.linkedin.com/in/songhee-y-821442167).
 <!--
-**Songhee95/Songhee95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
