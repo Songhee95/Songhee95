@@ -1,9 +1,11 @@
-### Hi I am Songhee Yim 👋
-I recently graduated from Georgia Tech Bootcamp.
+## Hi I am Songhee Yim 👋 
+I recently graduated from Georgia Tech Bootcamp.<br>
 I love to work as a team member.
 ---
-### How to reach me:
-    Reach our via Email or find me on [linkedin](www.linkedin.com/in/songhee-y-821442167).
+## How to reach me:
+Reach our via Email or find me on [linkedin](www.linkedin.com/in/songhee-y-821442167).
+
+
 <!--
 Here are some ideas to get you started:
 
